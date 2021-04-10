@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Trumpet player. Curious musician.
     subtitle: |
-      ###
+      ### Facebook Instagram 
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
