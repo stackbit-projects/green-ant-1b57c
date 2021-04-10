@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Trumpet player. Curious musician.
     subtitle: |
-      ### Facebook Instagram 
+      ### Facebook [Instagram](https://instagram.com/markgrisez)
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
