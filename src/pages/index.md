@@ -11,26 +11,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+    content: "My name is\_**Mark Grisez**, and I serve as\_**principal trumpet**\_of the\_[**Columbus Symphony Orchestra**](https://columbussymphony.com/musicians/cso/profile.dT/mark-grisez). I share my thoughts on music, performance, and personal growth on\_[**The Curious Musician**](https://www.facebook.com/TheCuriousMusician/). I’ve brought music to the\_[**escalators of San Diego Comic Con**](https://www.ocregister.com/2018/07/21/comic-con-2018-a-man-and-his-trumpet-provide-epic-music-for-overwatch-star-wars-cosplayers/), told stories about robots and rocketships**\_**[**onstage at the New World Center**](https://www.nws.edu/events-tickets/concerts/double-take-the-human-effect/), and made a video about the finer points of\_[**“horse whinnying”**](https://youtu.be/AKKN7Xmu5qc)\_on the trumpet.\_[**Read full bio…**](https://markgrisez.com/bio)\n"
   - title: Recent Posts
     section_id: posts
     type: section_posts
