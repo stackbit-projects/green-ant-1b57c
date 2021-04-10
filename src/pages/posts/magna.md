@@ -1,6 +1,6 @@
 ---
 title: Magna etiam sed lorem ipsum dolor amet
-subtitle: A cautionary tale about Magna etiam
+subtitle: Trumpet Player
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
